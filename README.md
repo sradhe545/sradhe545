@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sradhe545" alt="sradhe545" /></a> </p>
 
-- 🔭 I’m currently working on **Chat App**
+- 🔭 I’m currently working on **Chat App using MERN**
 
 - 🌱 I’m currently learning **Node JS**
 
