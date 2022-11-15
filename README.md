@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sradhe545@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ithk3j46P8_RlBiCkJmSTK_d-NwUtGio/view](https://drive.google.com/file/d/1Ithk3j46P8_RlBiCkJmSTK_d-NwUtGio/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1adNcTtCPuoQOb84JVWAId0DtTR1LMreh/view?usp=share_link](https://drive.google.com/file/d/1adNcTtCPuoQOb84JVWAId0DtTR1LMreh/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
